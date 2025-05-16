@@ -1,3 +1,3 @@
 # ArvoreBinaria
 
-Atividade da faculdade sobre Arvore binaria
+Este trabalho apresenta a implementação de uma Árvore Binária de Busca (ABB), permitindo operações dinâmicas como inserção, remoção, busca e diferentes formas de travessia. A estrutura utiliza a classe Node, representando os nós com ponteiros para filhos esquerdo e direito. Foram desenvolvidas funcionalidades para calcular altura e grau de nós, além de verificar se a árvore é estritamente binária, cheia ou completa. A aplicação conta com um menu interativo e uma visualização gráfica em formato pirâmide. A entrada e saída de dados são feitas via terminal, com feedback em tempo real. O projeto reforçou conceitos de estruturas de dados, recursividade e lógica condicional, enfrentando maior complexidade na remoção de nós com dois filhos.
